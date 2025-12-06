@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -96,3 +97,21 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+#BACKEND
+
+#arquitectura
++se usara la arquitectura monolitica
+
+
+#librerias utilizadas
++react-qr-code
+
+#Tecnologias utilizadas
++Node.js
++MySql/Postgresql
+
+
+
+#Estas ideas estan sujetas a cambios
+>>>>>>> 4c6b7911be4ce5e199a9e22b16e07bc2dfa0a442
