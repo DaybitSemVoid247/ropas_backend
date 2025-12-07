@@ -46,13 +46,13 @@ Edita el archivo `.env` con tus credenciales:
 
 # Base de datos
 
-DB_HOST=localhost
-DB_PORT=3306
-DB_USER=root
-DB_PASSWORD=contrasena_base_datos
-DB_NAME=nombre_base_datos
-DB_SYNC=true
-DB_LOGGING=true
+-DB_HOST=localhost
+-DB_PORT=3306
+-DB_USER=root
+-DB_PASSWORD=contrasena_base_datos
+-DB_NAME=nombre_base_datos
+-DB_SYNC=true
+-DB_LOGGING=true
 
 #Verificacion por correo
 
